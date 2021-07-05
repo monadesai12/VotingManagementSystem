@@ -1,0 +1,75 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+body,
+html {
+  height: 100%;
+}
+
+.bg {
+  background-image: url("https://media.newyorker.com/photos/5e2a2c7451d13300090015e6/16:9/w_1280,c_limit/DemocracyProject-header.gif");
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bgCastVote {
+  background-image: url("./images/election-candidate-political-leader-speaker-speech_121223-1489.jpg");
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bgElection {
+  background-image: url("./images/election-candidate-political-leader-speaker-speech_121223-1489.jpg");
+  /* background-image: url("https://hub.packtpub.com/wp-content/uploads/2019/02/E-voting-696x464.jpg"); */
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bgResult {
+  background-image: url("./images/election-candidate-political-leader-speaker-speech_121223-1489.jpg");
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bgNomination {
+  background-image: url("./images/candidate-election.jpg");
+  height: 100vh;
+  width: fit-content;
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.bgSidebar {
+  background-image: url("./images/background-sidebar.png");
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bgAdmin {
+  background-image: url("./images/Administration-7217.jpeg");
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
